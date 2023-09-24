@@ -1,0 +1,14 @@
+{
+  "id": "mig_ck798uel9qd2j1ihbl40",
+  "parentID": "mig_ck5gs93b3edon93em3ug",
+  "checksum": "1:8afbd8f102b4aaf0d1f0c51a3a2493e6a3fe36f5557688c0ccea97a92e85026d",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "bookfile",
+        "oldName": "book-file",
+        "table": "library"
+      }
+    }
+  ]
+}

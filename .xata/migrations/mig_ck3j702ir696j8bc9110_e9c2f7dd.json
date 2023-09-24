@@ -1,0 +1,12 @@
+{
+  "id": "mig_ck3j702ir696j8bc9110",
+  "parentID": "mig_ck3j6hssp8qvmpuogj90",
+  "checksum": "1:e9c2f7ddc8eb1bc3707d63f536ec9e40604bd8d3ae61ff523b942dd3b38d2231",
+  "operations": [
+    {
+      "removeTable": {
+        "table": "library"
+      }
+    }
+  ]
+}

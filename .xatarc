@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://AbuTuraab-s-workspace-5ltcb8.us-east-1.xata.sh/db/library",
+  "codegen": {
+    "output": "utils/xata.ts"
+  }
+}

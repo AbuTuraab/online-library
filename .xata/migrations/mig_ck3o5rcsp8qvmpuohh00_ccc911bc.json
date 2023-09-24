@@ -1,0 +1,16 @@
+{
+  "id": "mig_ck3o5rcsp8qvmpuohh00",
+  "parentID": "mig_ck3o5aksp8qvmpuohgv0",
+  "checksum": "1:ccc911bc571d06296a5e863b73b011ae7d77d06dd6b9784f7d3358a765d69c04",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "author",
+          "type": "string"
+        },
+        "table": "library"
+      }
+    }
+  ]
+}

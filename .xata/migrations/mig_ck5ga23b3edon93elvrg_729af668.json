@@ -1,0 +1,16 @@
+{
+  "id": "mig_ck5ga23b3edon93elvrg",
+  "parentID": "mig_ck5g9joih48gsqk0s9jg",
+  "checksum": "1:729af6687ed5060d022218ea5193ccbdb20f4e97732fa96f2df516771c4c81a9",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "class",
+          "type": "string"
+        },
+        "table": "lib"
+      }
+    }
+  ]
+}
